@@ -1,0 +1,14 @@
+2026/03/23-15:08:07.794 79a5 Creating DB /home/aakash-091/Whatsaapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/03/23-15:08:07.807 79a5 Reusing MANIFEST /home/aakash-091/Whatsaapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/23-16:36:08.163 79a6 Level-0 table #5: started
+2026/03/23-16:36:08.178 79a6 Level-0 table #5: 1108602 bytes OK
+2026/03/23-16:36:08.183 79a6 Delete type=0 #3
+2026/03/23-17:32:18.404 79a6 Level-0 table #7: started
+2026/03/23-17:32:18.419 79a6 Level-0 table #7: 865518 bytes OK
+2026/03/23-17:32:18.425 79a6 Delete type=0 #4
+2026/03/23-17:34:38.675 79a6 Compacting 1@1 + 1@2 files
+2026/03/23-17:34:38.730 79a6 Generated table #8@1: 10864 keys, 817025 bytes
+2026/03/23-17:34:38.731 79a6 Compacted 1@1 + 1@2 files => 817025 bytes
+2026/03/23-17:34:38.737 79a6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/23-17:34:38.737 79a6 Delete type=2 #7
+2026/03/23-17:34:38.737 79a6 Delete type=2 #5
